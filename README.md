@@ -5,7 +5,7 @@
 </a>
 
   <br>
-  <b>Leonida Continued</b>
+  <b>LE0N1D4</b>
   <br>
 </h1>
 
@@ -19,9 +19,7 @@
   <a href="#how-it-works">How it works</a> |
   <a href="#want-to-help">Want to help?</a> |
   <a href="#credits">Credits</a> |
-  <a href="#license">License</a> |
-  <a href="https://discord.gg/ETf4qj5acN">Discord</a> |
-  <a href="https://t.me/mandyport">Telegram</a>
+  <a href="#license">License</a>
 </p>
 
 Leonida is a static recompilation project. The Xbox Series CPU is x86-64 like a PC, so the game's code is loaded
