@@ -22,7 +22,7 @@
   <a href="#license">License</a>
 </p>
 
-Leonida is a static recompilation project. The Xbox Series CPU is x86-64 like a PC, so the game's code is loaded
+LE0N1D4 is a static recompilation project. The Xbox Series CPU is x86-64 like a PC, so the game's code is loaded
 and run natively, and the console's system software is reimplemented. The console's precompiled RDNA2 GPU programs
 are translated to SPIR-V for Vulkan. The game's models, textures and audio are read from your package. All of this
 happens **on your PC, from your own copy of the game**.
@@ -37,10 +37,6 @@ happens **on your PC, from your own copy of the game**.
 > **This is a continuation of [NotRexed's Leonida project](https://github.com/ItsNotRexed/Leonida).** The original
 > author has left the project, and development continues here with its full commit history. Credit for the work up to
 > that point belongs to NotRexed and the contributors listed in the history.
-
-Discord: https://discord.gg/ETf4qj5acN
-
-Telegram: https://t.me/mandyport
 
 Original author's Git Mirror: https://git.notrexed.dev/notrexed/Leonida
 <br>
@@ -229,7 +225,7 @@ that budget is split between them and passed to `rpf9dump` as `--jobs`. A solo a
 every core. Progress lines include percent and a rough ETA for translation shards, asset steps, and overall stage
 completion.
 
-On an interactive terminal, a LEONIDA setup screen lets you set jobs and whether stages overlap, then a key-switchable
+On an interactive terminal, a LE0N1D4 setup screen lets you set jobs and whether stages overlap, then a key-switchable
 per-stage log view (`1`–`4` / `Tab`) keeps parallel output demuxed; full stage logs go under `work/logs/`. Use
 `--no-tui` (or redirect stdout) for the plain console.
 
